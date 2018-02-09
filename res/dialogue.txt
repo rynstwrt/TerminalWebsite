@@ -1,0 +1,17 @@
+<span id="user">guest@rynstwrt</span>:<span id="tilde">~</span><span id="dollarsign">$</span> cat info.txt
+
+
+
+Hi, <span class="red">I'm Ryan</span>. Welcome to my website! 
+
+
+
+Links:
+-------------------
+|	• <a href="https://www.twitter.com/rynstwrt" target="_blank">Twitter</a>
+|	• <a href="https://www.github.com/rynstwrt" target="_blank">GitHub</a>
+|	• <a href="https://www.linkedin.com/ryanstewartalex" target="_blank">LinkedIn</a>
+|	• <a href="resume.pdf" target="_blank">Resume</a>
+
+
+<span id="user">guest@rynstwrt</span>:<span id="tilde">~</span><span id="dollarsign">$</span>

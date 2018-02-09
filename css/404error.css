@@ -1,0 +1,31 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	background-image: url("../res/gondola404.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.content {
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	text-align: center;
+}
+
+h1, h3 {
+	color: white;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-size: 10rem;
+	margin: 50px 0 0 0;
+	padding: 0;
+}
+
+h3 {
+	font-size: 3rem;
+}
+
