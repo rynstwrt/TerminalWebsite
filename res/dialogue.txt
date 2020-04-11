@@ -4,7 +4,7 @@
 
 Hi, <span class="red">I'm Ryan</span>. Welcome to my website! 
 
-You can entire text here.
+You can enter text here.
 <!-----------------------------------------------------add delay with comments----------------------------------------------------------->
 
 
